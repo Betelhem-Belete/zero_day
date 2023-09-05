@@ -1,2 +1,3 @@
 *Emphasize*
-first repo as an alx software engineering student
+the first alx software engineering repository
+
